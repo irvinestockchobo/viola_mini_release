@@ -2,4 +2,7 @@
 Viola Mini release assets
 
 
-<img width="1096" height="1027" alt="Screenshot 2026-01-05 at 10 34 24 PM" src="https://github.com/user-attachments/assets/8b6a9a12-34b3-4407-a5a1-676be6086a83" />
+<img width="945" height="1021" alt="Screenshot 2026-01-14 at 11 11 33 PM" src="https://github.com/user-attachments/assets/f1da946a-3717-40cf-a4fe-5f316310bf26" />
+
+
+<img width="638" height="820" alt="Screenshot 2026-01-14 at 11 26 45 PM" src="https://github.com/user-attachments/assets/a170861b-c4da-427e-9d5e-158e425dc3da" />
